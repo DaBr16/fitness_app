@@ -1,0 +1,89 @@
+.Food__Container__Mobile{
+    display: flex;
+    flex-direction: column;
+}
+
+.Food__Container__Desktop{
+    display: flex;
+}
+
+.Food__Table__Button__Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Food__Table__Container {
+    background-color: rgba(116, 189, 211, 0.3);
+    width: 100%;
+    min-height: 230px;
+    font-size: 1.1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    overflow-y: auto;
+    flex: 1
+}
+
+.Food__SelectedFood__Container {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+    height: 453px;
+}
+
+.Food__TableRow.selected{
+    border: 1px solid black
+}
+
+.Food__SelectedFood__Attributes {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.Food__AddButton {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    background-color: #26a7d6;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.Food__AddButton:hover {
+    box-shadow: 0 10px 20px -10px rgba(62, 232, 255, 0.6);
+    transform: translateY(-5px);
+    background: #26d6ad;    
+}
+
+.Food__SaveButton {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    background-color: #1ca018;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.Food__SaveButton:hover{
+    box-shadow: 0 10px 20px -10px rgba(62, 255, 94, 0.6);
+    transform: translateY(-5px);
+    background: #60a018;
+}
+
+.Food__DeleteButton {
+    width: 100px;
+    height: 30px;
+    margin-top: 2px;
+    background-color: #c1a4a0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.Food__DeleteButton:hover {
+    box-shadow: 0 10px 20px -10px rgba(178, 189, 180, 0.6);
+    transform: translateY(-5px);
+    background: #c1b5a0;    
+}

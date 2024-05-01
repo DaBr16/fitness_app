@@ -1,0 +1,30 @@
+.ExerciseTable__Container__Mobile{
+    display: flex;
+    margin: 5px;
+    background-color: rgba(116, 189, 211, 0.3);
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    min-height: 150px;
+    overflow: scroll;
+    font-size: 1.1rem;
+}
+
+.ExerciseTable__Table{
+    margin: 10px;
+    width: 95%;    
+}
+
+.ExerciseTable__Container__Desktop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+    margin-left: 5px;
+    background-color: rgba(116, 189, 211, 0.3);
+}
+
+td {
+    border: 1px solid black;
+}

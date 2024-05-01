@@ -1,0 +1,4 @@
+[
+    { "name": "Joggen", "baseTime": "30", "energyBurned": "400" },
+    { "name": "Kraftsport", "baseTime": "60", "energyBurned": "600" }
+]

@@ -1,0 +1,5 @@
+[
+    {"id": 1, "name": "John Doe", "age": 25, "height": 175, "weight": 70, "sex": "male", "userId": "60f6df5f1f6d1a001c8ef081"},
+    {"id": 2, "name": "Jane Smith", "age": 30, "height": 160, "weight": 55, "sex": "female", "userId": "60f6df5f1f6d1a001c8ef082"}
+]
+  

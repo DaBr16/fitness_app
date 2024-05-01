@@ -1,0 +1,8 @@
+[
+    {"name": "Apple", "baseAmount": 1, "energy": 52, "fat": 0.2, "carbohydrates": 14, "protein": 0.3, "salt": 0, "fiber": 2.4, "drink": false},
+    {"name": "Potatoes", "baseAmount": 100, "energy": 77, "fat": 0.1, "carbohydrates": 17, "protein": 2, "salt": 0, "fiber": 2.2, "drink": false},
+    {"name": "Rice", "baseAmount": 100, "energy": 130, "fat": 0.3, "carbohydrates": 28, "protein": 2.7, "salt": 0, "fiber": 0.4, "drink": false},
+    {"name": "Salmon", "baseAmount": 100, "energy": 206, "fat": 13.4, "carbohydrates": 0, "protein": 22, "salt": 0.05, "fiber": 0, "drink": false},
+    {"name": "Chicken", "baseAmount": 100, "energy": 165, "fat": 9.3, "carbohydrates": 0, "protein": 19, "salt": 0.1, "fiber": 0, "drink": false}
+]
+  

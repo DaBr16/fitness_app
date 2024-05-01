@@ -1,0 +1,7 @@
+.App__Outlet__Container{
+    height: 100%;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

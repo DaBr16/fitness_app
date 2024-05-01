@@ -1,0 +1,42 @@
+[
+    {
+      "date": "2024-02-10",
+      "food": [
+        {"foodId": "60f6df5f1f6d1a001c8ef083", "amount": 1},
+        {"foodId": "60f6df5f1f6d1a001c8ef084", "amount": 100},
+        {"foodId": "60f6df5f1f6d1a001c8ef085", "amount": 150}
+      ],
+      "exercise": [
+        {"exerciseId": "60f6df5f1f6d1a001c8ef086", "timeInMinutes": 30},
+        {"exerciseId": "60f6df5f1f6d1a001c8ef087", "timeInMinutes": 45}
+      ],
+      "profileId": 1
+    },
+    {
+      "date": "2024-02-09",
+      "food": [
+        {"foodId": "60f6df5f1f6d1a001c8ef088", "amount": 1},
+        {"foodId": "60f6df5f1f6d1a001c8ef089", "amount": 120},
+        {"foodId": "60f6df5f1f6d1a001c8ef08a", "amount": 200}
+      ],
+      "exercise": [
+        {"exerciseId": "60f6df5f1f6d1a001c8ef08b", "timeInMinutes": 40},
+        {"exerciseId": "60f6df5f1f6d1a001c8ef08c", "timeInMinutes": 60}
+      ],
+      "profileId": 2
+    },
+    {
+      "date": "2024-02-08",
+      "food": [
+        {"foodId": "60f6df5f1f6d1a001c8ef08d", "amount": 1},
+        {"foodId": "60f6df5f1f6d1a001c8ef08e", "amount": 80},
+        {"foodId": "60f6df5f1f6d1a001c8ef08f", "amount": 120}
+      ],
+      "exercise": [
+        {"exerciseId": "60f6df5f1f6d1a001c8ef090", "timeInMinutes": 20},
+        {"exerciseId": "60f6df5f1f6d1a001c8ef091", "timeInMinutes": 30}
+      ],
+      "profileId": 1
+    }
+]
+  

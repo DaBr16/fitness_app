@@ -1,0 +1,101 @@
+.Fitnesscontainer__Mobile{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Fitnesscontainer__Calendar__Mobile{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    font-size: 1.3rem;
+}
+
+.Fitnesscontainer__CalendarIcon {
+    width: 25px;
+    height: 25px;
+}
+
+.Fitnesscontainer__Profile__Mobile{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    width: 100%;
+    background-color: #74bdd3;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    height: 50px;
+    font-size: 1.1rem;
+}
+
+.Fitnesscontainer__Selectioncontainer__Mobile{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Fitnesscontainer__Tables__Mobile{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.Fitnesscontainer__Desktop{
+    display: flex;
+}
+
+.Fitnesscontainer__Calender__Profile__Desktop{
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    align-items: center;
+}
+
+.Fitnesscontainer__Tables__Desktop{
+    display: flex;
+    width: 100%;
+}
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.popup {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1001; 
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.Fitnesscontainer__Table__Desktop{
+    display: flex;
+    flex-direction: column;
+}
+
+.Fitnesscontainer__Button__Desktop{
+    height: 50px;
+}
+
+h3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
